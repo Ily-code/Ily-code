@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+---
 
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
 ---
+
+
 <br />
 <br />
 <img align="left" alt="Ily-code Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ily-code&show_icons=true&theme=radical)" />
