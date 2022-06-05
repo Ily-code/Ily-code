@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="left" alt="Ily-code Github Stats" src="" />
+<img align="left" alt="Ily-code Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ily-code_icons=true&hide_border=true" />
 [![I's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ily-code)](https://github.com/Ily-code/github-readme-stats)
