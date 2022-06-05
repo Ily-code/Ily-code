@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ily-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-### Project 👋
 <embed type="text/html" src="https://if.polibatam.ac.id/pamerin/detail.php?id=MzMxMjAwMTA3Nw==&ta=Mg==" width="500" height="200">
