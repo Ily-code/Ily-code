@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 - 
 <img align="left" alt="Ily-code Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ily-code&show_icons=true&theme=radical)" />
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ily-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ily-code&layout=compact" />
 </a>
