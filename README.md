@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 ### Learn
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ily-code&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ily-code&layout=compact" />
 </a>
 
