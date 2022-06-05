@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="left" alt="Ily-code Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ily-code" />
 <img align="left" alt="Ily-code Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ily-code&show_icons=true&theme=radical)" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ily-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Project 👋
+<embed type="text/html" src="https://if.polibatam.ac.id/pamerin/detail.php?id=MzMxMjAwMTA3Nw==&ta=Mg==" width="500" height="200">
